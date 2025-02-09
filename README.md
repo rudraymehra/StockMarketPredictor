@@ -1,6 +1,7 @@
 # Crypto Tracker Pro
 
-Crypto Tracker Pro is a web app that lets users track real-time cryptocurrency data using the CoinGecko API.
+Crypto Tracker Pro is a web app that lets users track real-time cryptocurrency data using the CoinGecko API. The API that is being used just gives 2 reloads per min.
+
 
 ## Features
 - Live cryptocurrency prices
