@@ -36,5 +36,5 @@ StockMarketPredictor/
 - **CoinGecko API** for fetching real-time cryptocurrency data.
 
 ## Author
-Developed by **[Your Name]**. Contributions are welcome!
+Developed by **Rudray Mehra**.
 
