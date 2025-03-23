@@ -5,7 +5,6 @@ class CryptoTracker {
         this.chart = null;
         this.hoveredCoin = null;
         this.watchlist = JSON.parse(localStorage.getItem('watchlist')) || [];
-        
         this.init();
     }
 
